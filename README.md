@@ -6,3 +6,5 @@ I should make another changes for tutorial purpose
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
+
+Another changes to make sure i don't need token to make a push
