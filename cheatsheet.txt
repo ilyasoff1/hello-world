@@ -1,0 +1,26 @@
+git init  -> initializes a new git repository
+
+git add <file>  -> adds file to Staging Environment
+git add --all or git add -A  -> adds all files to Staging Environment
+
+git commit -m "message"  -> commits all files in the Staging Environment with a message
+git commit -a -m "message"  -> directly Committing modified files without Staging
+
+git status --short
+	?? - Untracked files
+	A - Files added to stage
+	M - Modified files
+	D - Deleted files
+
+git log  -> to view the history of commits
+
+git <command> -help  -> shows all the possible options for a specified command
+git help --all  -> shows all possible git commands
+
+git branch <name>  -> creates a new branch under the name specified
+git branch  -> shows in which branch you are working
+git checkout <name>  -> moves you in to the specified branch
+git checkout -b <name>  -> creates a new branch and moves you in it at the same time
+git branch -d <name>  -> deletes a specified branch  
+
+git push https://<token>@github.com/<username>/<repo_name>.git
