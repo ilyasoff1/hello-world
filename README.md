@@ -5,5 +5,7 @@ I should make another changes for tutorial purpose
 
 This repository is built step by step in the tutorial.
 
+I need to make some changes
+
 It now includes steps for GitHub
 
